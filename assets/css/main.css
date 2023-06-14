@@ -154,6 +154,12 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
+		h2.c {
+			display: flex;
+			justify-content: center;
+		}
+
+
 	h3 {
 	    color: #5e5e5e;
 		font-weight: 400;
