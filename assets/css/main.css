@@ -300,11 +300,35 @@ input, select, textarea {
 			margin: 1em 0em 1em 0em !important;
 			float: right;
 		}
+
+		.container.trio.left {
+			width: 30%;
+			margin: 1em 1em 1em 0em;
+			float: left;
+		}
 		
-		.container.trio {
-			width: 25%;
+		.container.trio.middle {
+			width: 30%;
 			margin: 1em;
 			float: left;
+		}
+
+		.container.trio.right {
+			width: 30%;
+			margin: 1em 0em 1em 1em;
+			float: left;
+		}
+
+		.container.text.left{
+			width: 45%;
+			margin: 1em 0em 0em 1em !important;
+			float: left;
+		}
+
+		.container.text.right{
+			width: 45%;
+			margin: 1em 0em 0em 1em;
+			float: right;
 		}
 
 		.container.foot {
