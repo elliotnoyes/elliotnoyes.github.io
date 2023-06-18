@@ -169,6 +169,16 @@ input, select, textarea {
 		font-family: 'Source Sans Pro';
 	}
 
+		h3.b {
+			font-weight: bold;
+			font-size: 1.65em;
+		}
+
+		h3.s {
+
+			font-weight: lighter;
+			font-size: 1em;
+		}
 	h4 {
 		font-size: 1.1em;
 		line-height: 1.5em;
@@ -289,6 +299,12 @@ input, select, textarea {
 			width: 45%;
 			margin: 1em 0em 1em 0em !important;
 			float: right;
+		}
+		
+		.container.trio {
+			width: 25%;
+			margin: 1em;
+			float: left;
 		}
 
 		.container.foot {
@@ -2201,7 +2217,7 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			margin: 0 0 0.5em 0;
+			margin: 0;
 			width: 100%;
 		}
 
