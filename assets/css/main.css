@@ -295,6 +295,12 @@ input, select, textarea {
 			float: left;
 		}
 
+		.container.center {
+			width: 100%;
+			margin: 1em 0em 1em 0em !important;
+			display: grid;
+		}
+
 		.container.right {
 			width: 45%;
 			margin: 1em 0em 1em 0em !important;
