@@ -325,8 +325,20 @@ input, select, textarea {
 			float: left;
 		}
 
+		.container.duo.left {
+			width: 49%;
+			margin: 1em 1em 1em 0em;
+			float: left;
+		}
+
+		.container.duo.right {
+			width: 49%;
+			margin: 1em 0em 1em 1em;
+			float: right;
+		}
+
 		.container.text.left{
-			width: 45%;
+			width: 50%;
 			margin: 1em 0em 0em 1em !important;
 			float: left;
 		}
