@@ -109,13 +109,13 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #E90505;
+		color: #824500;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #E90505 !important;
+			color: #876c4d !important;
 			text-decoration: none;
 		}
 
@@ -1975,7 +1975,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #E90505;
+			border-color: #824500;
 		}
 
 	select {
@@ -2080,7 +2080,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #E90505;
+			border-color: #824500;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2625,8 +2625,8 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #E90505;
-			color: #E90505 !important;
+			border-color: #824500;
+			color: #824500 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2634,8 +2634,8 @@ input, select, textarea {
 		input[type="button"]:active,
 		.button:active {
 			background-color: rgba(255, 5, 5, 0.1);
-			border-color: #E90505;
-			color: #E90505 !important;
+			border-color: #824500;
+			color: #824500 !important;
 		}
 
 		input[type="submit"].icon,
@@ -2687,16 +2687,16 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #EE4444;
-				border-color: #EE4444;
+				background-color: #824500;
+				border-color: #824500;
 			}
 
 			input[type="submit"].primary:active,
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #EE4444;
-				border-color: #EE4444;
+				background-color: #824500;
+				border-color: #824500;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
